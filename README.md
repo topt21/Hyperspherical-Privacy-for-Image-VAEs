@@ -34,4 +34,12 @@ See `$ ./main.py -h` and `$ ./main.py {cmd} -h` for usage.
 
 ## Citation
 
-TBD
+```
+@misc{vae-privacy,
+   author = {Ojutkangas, Alexander and Pettersson, Tobias},
+   institution = {Blekinge Institute of Technology, Department of Computer Science},
+   title = {Hyperspherical Privacy for Image VAEs : Evaluating VAEs Under Differing Privacy Frameworks},
+   year = {2026},
+   url = {https://urn.kb.se/resolve?urn=urn:nbn:se:bth-30560}
+}
+```
